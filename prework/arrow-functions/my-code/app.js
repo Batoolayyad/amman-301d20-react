@@ -223,8 +223,8 @@ console.log(joe.scopeArrow());
 
 // TODO: Write a COMMENT below to answer the following questions.
 // 1. What is "this" when joe.scope() is invoked?
-// undefined 
+// undefined .
 // 2. What is "this" when joe.scopeArrow() is invoked?
-//undefined
+//undefined .
 // 3. Explain why "this" is different when an arrow function is used.
 //
